@@ -12,14 +12,14 @@ All client requests are forwarded through the Routing VPS to the Main VPS.
 
 
 ### Routing-VPS
-wget https://raw.githubusercontent.com/kervenov/ip-forwarding/main/routing-vps.sh
+wget https://raw.githubusercontent.com/CyberX1775/Ip-Forwarding/main/routing-vps.sh
 
 chmod +x routing-vps.sh
 
 ./routing-vps.sh
 
 ### Main-VPS
-wget https://raw.githubusercontent.com/kervenov/ip-forwarding/main/main-vps.sh
+wget https://raw.githubusercontent.com/CyberX1775/Ip-Forwarding/main/main-vps.sh
 
 chmod +x main-vps.sh
 
